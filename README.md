@@ -1,7 +1,7 @@
-# Tea-Shop in React & Redux + Django
+# TR Tea Shop in React & Redux + Django
 
 ```
-Tea-Shop, with a frontend built in React & Redux and a backend built in Django API.
+TR Tea Shop, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
