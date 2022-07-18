@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://tea-shop-backend1.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/jonathann445/TR-Tea-Shop.git
 ```
 
 2. Backend setting
